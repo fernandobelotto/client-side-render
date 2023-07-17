@@ -1,1 +1,2 @@
-# Projeto com o Luw
+# Teaching client side rendering
+- with reactjs, vitejs and nodejs
